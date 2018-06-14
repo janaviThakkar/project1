@@ -5,7 +5,7 @@ function printHello($x){
 	
 echo $x;
 
-echo "testing";
+testing 12;
 }
 
 printHello('hello');
